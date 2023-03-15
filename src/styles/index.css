@@ -10,3 +10,11 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body{
+    background-color: gray
+}
+
+.tod{
+    font-size: 70px;
+    color: rgb(197, 199, 201);
+}
